@@ -32,4 +32,4 @@ IPC code classification using KoBERT with patent data
 > - 세세분류코드까지 이용해서 IPC를 분류하는 모델이 가장 성능이 좋음
 > - 세세분류코드는 해당 데이터로 예측이 불가능
 > - 예측가능한 산업분류코드인 중분류코드까지 사용했을 때 약간의 성능 향상
-> ![image](https://github.com/jungsungmoon/kobert_ipc_classification/blob/main/pic/6.png)
+> ![image](https://github.com/jungsungmoon/kobert_ipc_classification/blob/main/pic/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C2.png)
